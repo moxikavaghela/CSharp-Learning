@@ -37,8 +37,8 @@ Here are the topics that I’ll cover as I learn C#:
 | **Assignment Operators**                                              | ✅     |
 | **Logical Operators**                                                 | ✅     |
 | **Comparison Operators**                                              | ✅     |
-| **Math Class in C#**                                                  | ⬜      |
-| **String Methods**                                                    | ⬜      |
+| **Math Class in C#**                                                  | ✅     |
+| **String Methods**                                                    | ✅     |
 | **Escape Sequence Characters**                                        | ⬜      |
 | **If Else Statements**                                                | ⬜      |
 | **Loops**                                                             | ⬜      |
