@@ -39,8 +39,8 @@ Here are the topics that I’ll cover as I learn C#:
 | **Comparison Operators**                                              | ✅     |
 | **Math Class in C#**                                                  | ✅     |
 | **String Methods**                                                    | ✅     |
-| **Escape Sequence Characters**                                        | ⬜      |
-| **If Else Statements**                                                | ⬜      |
+| **Escape Sequence Characters**                                        | ✅     |
+| **If Else Statements**                                                | ✅     |
 | **Loops**                                                             | ⬜      |
 | **Methods**                                                           | ⬜      |
 | **Object Oriented Programming in C#**                                 | ⬜      |
