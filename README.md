@@ -26,10 +26,10 @@ Here are the topics that I’ll cover as I learn C#:
 | **MultiLine Comment**                                                 | ✅     |
 | **Variables**                                                         | ✅     |
 | **DataTypes**                                                         | ✅     |
-| **Taking Inputs**                                                     | ⬜      |
-| **Size of Datatypes**                                                 | ⬜      |
-| **Typecasting double to float**                                       | ⬜      |
-| **Character and Strings**                                             | ⬜      |
+| **Taking Inputs**                                                     | ✅     |
+| **Size of Datatypes**                                                 | ✅     |
+| **Typecasting double to float**                                       | ✅     |
+| **Character and Strings**                                             | ✅     |
 | **Typecasting other datatypes**                                       | ⬜      |
 | **Typecasting using Methods**                                         | ⬜      |
 | **Taking user input**                                                 | ⬜      |
