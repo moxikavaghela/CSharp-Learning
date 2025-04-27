@@ -79,6 +79,9 @@ Here are the **mini projects** that I will build as I progress through the topic
      - Arithmetic Operators
      - Taking Inputs
      - Methods
+     - If-Else Statements
+       
+   **Tip:** You can also Try Switch-Case Statement after learning it
 
    **When to Build**: After completing **Day 1 to Day 3** (C# basics and operators).
 
