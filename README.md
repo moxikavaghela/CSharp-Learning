@@ -53,7 +53,7 @@ Here are the **mini projects** that I will build as I progress through the topic
 
 | Project                               | Status |
 |---------------------------------------|--------|
-| **1. Basic Calculator**               | ⬜      |
+| **1. Basic Calculator**               | ✅      |
 | **2. Simple To-Do List**              | ⬜      |
 | **3. Grade Calculator**               | ⬜      |
 | **4. Number Guessing Game**           | ⬜      |
