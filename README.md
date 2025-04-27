@@ -30,13 +30,13 @@ Here are the topics that I’ll cover as I learn C#:
 | **Size of Datatypes**                                                 | ✅     |
 | **Typecasting double to float**                                       | ✅     |
 | **Character and Strings**                                             | ✅     |
-| **Typecasting other datatypes**                                       | ⬜      |
-| **Typecasting using Methods**                                         | ⬜      |
-| **Taking user input**                                                 | ⬜      |
-| **Arithmetic Operators**                                              | ⬜      |
-| **Assignment Operators**                                              | ⬜      |
-| **Logical Operators**                                                 | ⬜      |
-| **Comparison Operators**                                              | ⬜      |
+| **Typecasting other datatypes**                                       | ✅     |
+| **Typecasting using Methods**                                         | ✅     |
+| **Taking user input**                                                 | ✅     |
+| **Arithmetic Operators**                                              | ✅     |
+| **Assignment Operators**                                              | ✅     |
+| **Logical Operators**                                                 | ✅     |
+| **Comparison Operators**                                              | ✅     |
 | **Math Class in C#**                                                  | ⬜      |
 | **String Methods**                                                    | ⬜      |
 | **Escape Sequence Characters**                                        | ⬜      |
