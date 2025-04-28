@@ -12,9 +12,9 @@ Here are the topics that I’ll cover as I learn C#:
 |----------------------------------------------------|--------|
 | **Setting up Visual Studio and Console Projects**  | ✅      |
 | **Namespaces and Console Colors**                  | ✅      |
-| **Data Types and Naming Conventions**              | ⬜      |
-| **Type Conversion (Casting, Parsing, TryParse)**   | ⬜      |
-| **Constants**                                      | ⬜      |
+| **Data Types and Naming Conventions**              | ✅      |
+| **Type Conversion (Casting, Parsing, TryParse)**   | ✅      |
+| **Constants**                                      | ✅      |
 | **User Input Handling**                            | ⬜      |
 | **Exception Handling (Try-Catch)**                 | ⬜      |
 | **Operators (Arithmetic, Logical, Comparison)**    | ⬜      |
